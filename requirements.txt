@@ -2,4 +2,4 @@ streamlit
 Pillow
 numpy==1.24.3
 tensorflow==2.10
-protobuf==3.20
+protobuf==3.19
